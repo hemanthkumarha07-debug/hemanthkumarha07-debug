@@ -14,15 +14,15 @@ Building reliable **Backend Systems**, **Local-First AI Workflows**, and **Inter
 
 | Project | Domain | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[SCALE.Core](#)** | Backend / Data / AI | Python, Django, PostgreSQL, Pandas, scikit-learn, XGBoost, Ollama | Working Prototype |
-| **[Omni Quant Bio-Sentinel](#)** | Computer Vision / Local AI | Python, Computer Vision, Ollama (Llama 3.2), WebSockets | Active (Final-Year Project) |
+| **[SCALE.Core](https://github.com/hemanthkumarha07-debug/Scale-CORE)** | Backend / Data / AI | Python, Django, PostgreSQL, Pandas, scikit-learn, XGBoost, Ollama | Working Prototype |
+| **[Omni Quant Bio-Sentinel](https://github.com/hemanthkumarha07-debug/Omni-Quant-Bio-Sentinel-2.0)** | Computer Vision / Local AI | Python, Computer Vision, Ollama (Llama 3.2), WebSockets | Active (Final-Year Project) |
 | **[Project H.A.W.K.](#)** | Quantitative Systems / AI | Python, Ollama (Llama 3.2), Local Inference | Active |
 | **[Contract Analyzer](https://github.com/hemanthkumarha07-debug/contract-analyzer)** | Full-Stack / AI | Python, Django, LLM Risk Analysis | Deployed |
 | **[TopoGraph](#)** | Frontend / Data Viz UI | React, Vite, Tailwind CSS, Interactive Animations | In Development |
 | **[LedgerOps](#)** | Frontend / FinTech UI | React, Next.js, Tailwind CSS, Dashboard Architecture | In Development |
 | **[KinetixUI](#)** | Frontend / Motion Systems | React, Tailwind CSS, Micro-interactions & Motion | In Development |
 
-*(Replace `#` with your repository URLs as you publish each repo.)*
+
 
 ---
 
