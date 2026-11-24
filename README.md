@@ -20,7 +20,7 @@ Building reliable **Backend Systems**, **Local-First AI Workflows**, and **Inter
 | **[Contract Analyzer](https://github.com/hemanthkumarha07-debug/contract-analyzer)** | Full-Stack / AI | Python, Django, LLM Risk Analysis | Deployed |
 | **[TopoGraph](#)** | Frontend / Data Viz UI | React, Vite, Tailwind CSS, Interactive Animations | In Development |
 | **[LedgerOps](#)** | Frontend / FinTech UI | React, Next.js, Tailwind CSS, Dashboard Architecture | In Development |
-| **[KinetixUI](https://github.com/hemanthkumarha07-debug/Kinetix-UI)** | Frontend / Motion Systems | React, Tailwind CSS, Micro-interactions & Motion | In Development |
+| **[KinetixUI](https://github.com/hemanthkumarha07-debug/Kinetix-UI)** | Frontend / Motion Systems | React, Tailwind CSS, Micro-interactions & Motion | Active |
 
 
 
