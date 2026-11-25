@@ -1,11 +1,11 @@
 ### Hi, I'm Hemanth Kumar H A 👋
 
 **Information Science & Engineering Undergraduate (Class of 2027)**  
-Building reliable **Backend Systems**, **Local-First AI Workflows**, and **Interactive Web Interfaces**.
+Building **Backend & Quantitative Systems**, **Local-First AI / RAG Workflows**, and **Physics-Driven Frontend Interfaces**.
 
-- 🔭 **Currently Building:** `SCALE.Core` (Supply Chain Analytics Engine), `Omni Quant Bio-Sentinel` (Facial Liveness & Local AI), and `Project H.A.W.K.` (Local-First Quant Command Center)
-- 🎨 **Upcoming Frontend / UI Builds:** `TopoGraph`, `LedgerOps`, and `KinetixUI`
-- ⚡ **Core Focus:** Python & Django APIs · PostgreSQL · Local LLM Inference (Ollama / Llama 3.2) · React & Tailwind UI Engineering
+- 🔭 **Flagship Builds:** `Project H.A.W.K.` (Air-Gapped F&O Command Center), `Omni Quant Bio-Sentinel 3.0` (Biometric Liveness + Local RAG), `C.H.R.O.N.O.S.` (DeFi Arbitrage & Flash-Loan Console), and `Kinetix-UI` (Zero-Dependency React/TS Motion Primitives)
+- 🎨 **Upcoming Frontend / UI Builds:** `TopoGraph` and `LedgerOps`
+- ⚡ **Core Focus:** Python & Django (REST + Channels) · PostgreSQL · Local LLMs & ChromaDB RAG (Ollama / Llama 3.2) · React, TypeScript & Tailwind CSS
 - 📫 **Reach Me:** [LinkedIn](https://linkedin.com/in/hemanth-kumar-h-a-318b6b381) · [hemanthkumarha6@gmail.com](mailto:hemanthkumarha6@gmail.com)
 
 ---
@@ -14,24 +14,25 @@ Building reliable **Backend Systems**, **Local-First AI Workflows**, and **Inter
 
 | Project | Domain | Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[SCALE.Core](https://github.com/hemanthkumarha07-debug/Scale-CORE)** | Backend / Data / AI | Python, Django, PostgreSQL, Pandas, scikit-learn, XGBoost, Ollama | Working Prototype |
-| **[Omni Quant Bio-Sentinel](https://github.com/hemanthkumarha07-debug/Omni-Quant-Bio-Sentinel-3.0)** | Computer Vision / Local AI | Python, Computer Vision, Ollama (Llama 3.2), WebSockets | Active (Final-Year Project) |
-| **[Project H.A.W.K.](https://github.com/hemanthkumarha07-debug/H-A-W-K-Autonomous-F-O-Command-Center.git)** | Quantitative Systems / AI | Python, Ollama (Llama 3.2), Local Inference | Active |
+| **[Project H.A.W.K.](https://github.com/hemanthkumarha07-debug/H-A-W-K-Autonomous-F-O-Command-Center)** | Quant Systems / Local AI | Python, Ollama (Llama 3.2), ChromaDB RAG, Deterministic Risk Engine | Active |
+| **[Omni Quant Bio-Sentinel 3.0](https://github.com/hemanthkumarha07-debug/Omni-Quant-Bio-Sentinel-3.0)** | Computer Vision / AI / Quant | Python, OpenCV/dlib, Ollama (Llama 3.2), ChromaDB, Black-Scholes | Active (Final-Year Project) |
+| **[Kinetix-UI](https://github.com/hemanthkumarha07-debug/Kinetix-UI)** | Frontend / Motion Systems | TypeScript, React, Spring Physics, View Transitions API | Active |
+| **[C.H.R.O.N.O.S.](https://github.com/hemanthkumarha07-debug/C-H-R-O-N-O-S-BC-)** | DeFi / Real-Time Backend | Solidity (Foundry / Aave V3), Django Channels, Web3.py, Chart.js | Active |
+| **[SCALE.Core](https://github.com/hemanthkumarha07-debug/Scale-CORE)** | Backend / Data / ML | Python, Django, PostgreSQL, Pandas, scikit-learn, XGBoost, Ollama | Working Prototype |
+| **[Parallel Backtesting Engine (PFSBE)](https://github.com/hemanthkumarha07-debug/Parallel-Financial-Backtesting-Engine-)** | Quant Engineering | Python, `concurrent.futures` Multi-Processing | Completed |
+| **[CineSense](https://github.com/hemanthkumarha07-debug/Cine-Sense-Review-Sentiment-Analyser-)** | Deep Learning / NLP | Python, Bidirectional LSTM, Sentiment Classification | Completed |
 | **[Contract Analyzer](https://github.com/hemanthkumarha07-debug/contract-analyzer)** | Full-Stack / AI | Python, Django, LLM Risk Analysis | Deployed |
-| **[TopoGraph](#)** | Frontend / Data Viz UI | React, Vite, Tailwind CSS, Interactive Animations | In Development |
-| **[LedgerOps](#)** | Frontend / FinTech UI | React, Next.js, Tailwind CSS, Dashboard Architecture | In Development |
-| **[KinetixUI](https://github.com/hemanthkumarha07-debug/Kinetix-UI)** | Frontend / Motion Systems | React, Tailwind CSS, Micro-interactions & Motion | Active |
 
-
+**In Development (Frontend Track):** `TopoGraph` (Spatial Node-Graph UI) · `LedgerOps` (FinTech Operations Dashboard)
 
 ---
 
 ### Tech Stack
 
-- **Backend & Databases:** Python, Django, REST APIs, PostgreSQL, SQLite, SQL
-- **AI, ML & Local Inference:** Ollama, Llama 3.2, Pandas, scikit-learn, XGBoost, TensorFlow, Computer Vision
-- **Frontend & UI:** JavaScript, React, Vite, Next.js, Tailwind CSS, HTML5, CSS3
-- **Tools & Workflows:** Git, GitHub, Data Structures & Algorithms
+- **Backend & Real-Time Systems:** Python, Django, Django Channels (WebSockets), REST APIs, PostgreSQL, SQLite, SQL
+- **AI, ML & Local Inference:** Ollama, Llama 3.2, ChromaDB (RAG), Pandas, scikit-learn, XGBoost, Bidirectional LSTM, OpenCV / dlib
+- **Frontend & UI Engineering:** TypeScript, JavaScript, React, Vite, Next.js, Tailwind CSS, Chart.js, HTML5, CSS3
+- **Web3 & Tools:** Solidity, Foundry, Web3.py, Git, GitHub, R
 
 ---
 
